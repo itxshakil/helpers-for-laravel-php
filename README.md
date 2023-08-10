@@ -43,6 +43,7 @@ Each specific folder may have its own README.md file that provides more detailed
 
 ### Specific Folder Descriptions
 - [General Helpers](./general-helpers) Contains miscellaneous and general-purpose helper functions that can be used throughout the application.
+- [Time Tracker](./time-tracker) A service class for tracking execution time of specific tasks.
 - [Slug Helpers](./slug-helpers) Contains helper functions for working with slugs, useful for creating SEO-friendly URLs.
 - [Media Support Helpers](./media-support-helpers) Contains helper functions for media handling and support, such as image resizing and video processing.
 
